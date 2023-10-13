@@ -1,7 +1,7 @@
 import aiohttp
 import asyncio
 
-token = ''
+token = 'MTE2MjQzNTg5MzY3NjczNjY0Mw.GagoNi.yu5ZJYw_PZCToxM5vTSunpb9zM74wR2RT2HRp0'
 guild_id = '1042446271849439212'
 
 headers = {
